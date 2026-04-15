@@ -1,7 +1,7 @@
 <!-- hide -->
 # Master TypeScript Skills at 4Geeks Academy
 
-> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/master-typescript-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/master-typescript-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.com/)
 
 *These instructions are also available in [Spanish](https://github.com/4GeeksAcademy/master-typescript-programming-exercises/blob/main/README.es.md) :es:*
 <!-- endhide -->

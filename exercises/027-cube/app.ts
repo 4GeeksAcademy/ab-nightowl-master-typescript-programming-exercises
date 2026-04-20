@@ -1,6 +1,6 @@
 function cube(n: number): number {
   // your code here
-  return 0;
+  return Math.pow(n, 3);
 }
 
 export {};
